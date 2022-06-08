@@ -144,7 +144,7 @@ Now that you have explored the different ways you can review a pull request it i
   Define terms and link to docs.github.com.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: Apply suggested changes</h2></summary>
 
 _Nicely done suggesting changes! :partying_face:_
@@ -166,7 +166,7 @@ Now let's see how easy it is to [apply your suggestion](https://docs.github.com/
   Define terms and link to docs.github.com.
 -->
 
-<details id=5>
+<details id=5 open>
 <summary><h2>Step 5: Merge your pull request</h2></summary>
 
 _Almost there! :heart:_
