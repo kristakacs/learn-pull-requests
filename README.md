@@ -116,7 +116,7 @@ When an approval or request for changes is not yet needed, consider using **comm
   Define terms and link to docs.github.com.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: Suggest changes</h2></summary>
 
 _Nice work reviewing that pull request :sparkles:_
@@ -144,7 +144,7 @@ Now that you have explored the different ways you can review a pull request it i
   Define terms and link to docs.github.com.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Apply suggested changes</h2></summary>
 
 _Nicely done suggesting changes! :partying_face:_
