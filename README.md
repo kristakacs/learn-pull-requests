@@ -48,7 +48,7 @@ endstep0-->
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Assign yourself as a reviewer</h2></summary>
 
 _Welcome to "Review pull requests"! :wave:_
@@ -73,7 +73,7 @@ The best way to get a review is to ask for one. On GitHub, you can ask someone t
   Historic note: this step combines the commend, approve, and needs changes steps from the previous version.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Leave a review</h2></summary>
 
 _You assigned yourself as a reviewer! :tada:_
